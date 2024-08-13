@@ -1,0 +1,28 @@
+﻿@page "/fooditems"
+
+@using Microsoft.EntityFrameworkCore
+@using Microsoft.AspNetCore.Components.QuickGrid
+@using Assignment.Models
+@inject IDbContextFactory<Assignment.Models.FastFoodDbContext> DbFactory
+
+<PageTitle>Index</PageTitle>
+
+<h1>Index</h1>
+
+<p>
+    <a href="fooditems/create">Create New</a>
+</p>
+
+<QuickGrid Class="table" Items="DbFactory.CreateDbContext().FoodItems">
+    <PropertyColumn Property="fooditem => fooditem.Name" />
+    <PropertyColumn Property="fooditem => fooditem.Description" />
+    <PropertyColumn Property="fooditem => fooditem.Price" />
+    <PropertyColumn Property="fooditem => fooditem.Category" />
+    <PropertyColumn Property="fooditem => fooditem.ImageUrl" />
+
+    <TemplateColumn Context="fooditem">
+        <a href="@($"fooditems/edit?id={fooditem.Id}")">Edit</a> |
+        <a href="@($"fooditems/details?id={fooditem.Id}")">Details</a> |
+        <a href="@($"fooditems/delete?id={fooditem.Id}")">Delete</a>
+    </TemplateColumn>
+</QuickGrid>

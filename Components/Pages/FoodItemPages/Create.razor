@@ -1,0 +1,66 @@
+﻿@page "/product/create"
+
+@using Microsoft.EntityFrameworkCore
+@using Assignment.Models
+@inject IDbContextFactory<Assignment.Models.FastFoodDbContext> DbFactory
+@inject NavigationManager NavigationManager
+
+<PageTitle>Create</PageTitle>
+
+<h1>Create</h1>
+
+<h4>FoodItem</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <EditForm method="post" Model="FoodItem" OnValidSubmit="AddFoodItem" FormName="create" Enhance>
+            <DataAnnotationsValidator />
+            <ValidationSummary class="text-danger" />
+            <div class="mb-3">
+                <label for="name" class="form-label">Name:</label> 
+                <InputText id="name" @bind-Value="FoodItem.Name" class="form-control" /> 
+                <ValidationMessage For="() => FoodItem.Name" class="text-danger" /> 
+            </div>        
+            <div class="mb-3">
+                <label for="description" class="form-label">Description:</label> 
+                <InputText id="description" @bind-Value="FoodItem.Description" class="form-control" /> 
+                <ValidationMessage For="() => FoodItem.Description" class="text-danger" /> 
+            </div>        
+            <div class="mb-3">
+                <label for="price" class="form-label">Price:</label> 
+                <InputNumber id="price" @bind-Value="FoodItem.Price" class="form-control" /> 
+                <ValidationMessage For="() => FoodItem.Price" class="text-danger" /> 
+            </div>        
+            <div class="mb-3">
+                <label for="category" class="form-label">Category:</label> 
+                <InputText id="category" @bind-Value="FoodItem.Category" class="form-control" /> 
+                <ValidationMessage For="() => FoodItem.Category" class="text-danger" /> 
+            </div>        
+            <div class="mb-3">
+                <label for="imageurl" class="form-label">ImageUrl:</label> 
+                <InputText id="imageurl" @bind-Value="FoodItem.ImageUrl" class="form-control" /> 
+                <ValidationMessage For="() => FoodItem.ImageUrl" class="text-danger" /> 
+            </div>        
+            <button type="submit" class="btn btn-primary">Create</button>
+        </EditForm>
+    </div>
+</div>
+
+<div>
+    <a href="/fooditems">Back to List</a>
+</div>
+
+@code {
+
+    [SupplyParameterFromForm]
+    public FoodItem FoodItem { get; set; } = new();
+
+    // To protect from overposting attacks, see https://aka.ms/RazorPagesCRUD
+    public async Task AddFoodItem()
+    {
+        using var context = DbFactory.CreateDbContext();
+        context.FoodItems.Add(FoodItem);
+        await context.SaveChangesAsync();
+        NavigationManager.NavigateTo("/product");
+    }
+}
