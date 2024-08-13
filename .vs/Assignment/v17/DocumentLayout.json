@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#6\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90C718C9-DEBE-40D9-84F6-3355651E7507}|..\\AssignmentClient\\AssignmentClient.csproj|f:\\c#6\\assignmentclient\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C718C9-DEBE-40D9-84F6-3355651E7507}|..\\AssignmentClient\\AssignmentClient.csproj|f:\\c#6\\assignmentclient\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|f:\\c#6\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|f:\\c#6\\assignment\\controllers\\fooditemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|solutionrelative:controllers\\fooditemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|f:\\c#6\\assignment\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|solutionrelative:controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|f:\\c#6\\assignment\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|f:\\c#6\\assignment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|f:\\c#6\\assignment\\models\\useridentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|solutionrelative:models\\useridentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C718C9-DEBE-40D9-84F6-3355651E7507}|..\\AssignmentClient\\AssignmentClient.csproj|f:\\c#6\\assignmentclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C718C9-DEBE-40D9-84F6-3355651E7507}|..\\AssignmentClient\\AssignmentClient.csproj|f:\\c#6\\assignmentclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|f:\\c#6\\assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|f:\\c#6\\assignment\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|solutionrelative:controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|f:\\c#6\\assignment\\models\\logintoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|solutionrelative:models\\logintoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|f:\\c#6\\assignment\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|solutionrelative:models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|f:\\c#6\\assignment\\models\\combofooditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|solutionrelative:models\\combofooditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|f:\\c#6\\assignment\\models\\fastfooddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|solutionrelative:models\\fastfooddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|f:\\c#6\\assignment\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|f:\\c#6\\assignment\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|f:\\c#6\\assignment\\controllers\\comboescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D72D32-B18E-4D1E-9CCC-C2E3DB693C90}|Assignment.csproj|solutionrelative:controllers\\comboescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C718C9-DEBE-40D9-84F6-3355651E7507}|..\\AssignmentClient\\AssignmentClient.csproj|f:\\c#6\\assignmentclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 528,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "F:\\C#6\\AssignmentClient\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "..\\AssignmentClient\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "F:\\C#6\\AssignmentClient\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "..\\AssignmentClient\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T09:49:17.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\C#6\\Assignment\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "F:\\C#6\\Assignment\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:45:56.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserIdentityDbContext.cs",
+              "DocumentMoniker": "F:\\C#6\\Assignment\\Models\\UserIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\UserIdentityDbContext.cs",
+              "ToolTip": "F:\\C#6\\Assignment\\Models\\UserIdentityDbContext.cs",
+              "RelativeToolTip": "Models\\UserIdentityDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:45:54.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\C#6\\AssignmentClient\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\AssignmentClient\\Views\\Login\\Index.cshtml",
+              "ToolTip": "F:\\C#6\\AssignmentClient\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "..\\AssignmentClient\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T04:28:33.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#6\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\C#6\\Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:47:33.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "F:\\C#6\\Assignment\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "F:\\C#6\\Assignment\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAkwHAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:36:36.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FoodItemsController.cs",
+              "DocumentMoniker": "F:\\C#6\\Assignment\\Controllers\\FoodItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FoodItemsController.cs",
+              "ToolTip": "F:\\C#6\\Assignment\\Controllers\\FoodItemsController.cs",
+              "RelativeToolTip": "Controllers\\FoodItemsController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAYwF8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:36:45.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\C#6\\AssignmentClient\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\AssignmentClient\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\C#6\\AssignmentClient\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\AssignmentClient\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T08:07:40.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "F:\\C#6\\Assignment\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FoodController.cs",
+              "ToolTip": "F:\\C#6\\Assignment\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "Controllers\\FoodController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:45:45.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\C#6\\Assignment\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\C#6\\Assignment\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T07:46:58.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#6\\AssignmentClient\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AssignmentClient\\Program.cs",
+              "ToolTip": "F:\\C#6\\AssignmentClient\\Program.cs",
+              "RelativeToolTip": "..\\AssignmentClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:51:58.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "F:\\C#6\\Assignment\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "F:\\C#6\\Assignment\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:46:02.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "F:\\C#6\\Assignment\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TokenController.cs",
+              "ToolTip": "F:\\C#6\\Assignment\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "Controllers\\TokenController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:36:52.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "F:\\C#6\\Assignment\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "F:\\C#6\\Assignment\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:46:03.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "F:\\C#6\\Assignment\\Models\\FoodItem.cs",
+              "RelativeDocumentMoniker": "Models\\FoodItem.cs",
+              "ToolTip": "F:\\C#6\\Assignment\\Models\\FoodItem.cs",
+              "RelativeToolTip": "Models\\FoodItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:46:04.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginToken.cs",
+              "DocumentMoniker": "F:\\C#6\\Assignment\\Models\\LoginToken.cs",
+              "RelativeDocumentMoniker": "Models\\LoginToken.cs",
+              "ToolTip": "F:\\C#6\\Assignment\\Models\\LoginToken.cs",
+              "RelativeToolTip": "Models\\LoginToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T05:46:56.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FastFoodDbContext.cs",
+              "DocumentMoniker": "F:\\C#6\\Assignment\\Models\\FastFoodDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\FastFoodDbContext.cs",
+              "ToolTip": "F:\\C#6\\Assignment\\Models\\FastFoodDbContext.cs",
+              "RelativeToolTip": "Models\\FastFoodDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:46:07.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ComboFoodItems.cs",
+              "DocumentMoniker": "F:\\C#6\\Assignment\\Models\\ComboFoodItems.cs",
+              "RelativeDocumentMoniker": "Models\\ComboFoodItems.cs",
+              "ToolTip": "F:\\C#6\\Assignment\\Models\\ComboFoodItems.cs",
+              "RelativeToolTip": "Models\\ComboFoodItems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:46:09.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ComboesController.cs",
+              "DocumentMoniker": "F:\\C#6\\Assignment\\Controllers\\ComboesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ComboesController.cs",
+              "ToolTip": "F:\\C#6\\Assignment\\Controllers\\ComboesController.cs",
+              "RelativeToolTip": "Controllers\\ComboesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:45:51.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\C#6\\AssignmentClient\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\AssignmentClient\\appsettings.json",
+              "ToolTip": "F:\\C#6\\AssignmentClient\\appsettings.json",
+              "RelativeToolTip": "..\\AssignmentClient\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-11T04:31:02.237Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
